@@ -14,4 +14,9 @@
  
          // 連想配列の値を出力する
          print_r($personal_data);
+          ?>
+     </p>
+ </body>
+ 
+ </html>
  
